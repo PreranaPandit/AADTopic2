@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         rdobtni4 = (RadioButton) findViewById(R.id.rdobtni4);
         imgVNature = findViewById(R.id.imgVNature);
 
-        rdobtni3.setOnClickListener(this);
+        rdobtni1.setOnClickListener(this);
         rdobtni2.setOnClickListener(this);
         rdobtni3.setOnClickListener(this);
         rdobtni4.setOnClickListener(this);
